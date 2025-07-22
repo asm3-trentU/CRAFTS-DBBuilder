@@ -65,7 +65,10 @@ while (operation){
 
   potential_main_folders = list.dirs(".",recursive=FALSE)
   a = which(potential_main_folders == "./source")
-  potential_main_folders = potential_main_folders[-a]
+  if(length(a)>0) potential_main_folders = potential_main_folders[-a]
+  a = which(potential_main_folders == "./.git")
+  if(length(a)>0) potential_main_folders = potential_main_folders[-a]
+  
   if(length(potential_main_folders)<1){
     operation = asm_ErrorFlagFatal("Step 0. No potential main_folders in current directory.")
     break
