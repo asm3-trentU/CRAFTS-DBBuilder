@@ -1,7 +1,9 @@
 CRAFTS Lab AI-MS Database Builder (DB)
 
-Program for generating R data table (.RDS) databases for use 
-with the NIST/NIJ DART-MS DIT (v3.22).
+Scripts for generating R data table (.RDS) databases for use 
+with the [NIST/NIJ DART-MS DIT (v3.22)](https://data.nist.gov/od/id/mds2-2448).
+
+Tested with R version 4.5.1
 
 Developed by: Arun Moorthy - arunmoorthy@trentu.ca
 

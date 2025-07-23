@@ -45,6 +45,13 @@ if("shiny" %in% row.names(installed.packages())==FALSE){
   library(shiny)
 }
 
+if("stringr" %in% row.names(installed.packages())==FALSE){
+  install.packages("stringr")
+  library(stringr)
+} else {
+  library(stringr)
+}
+
 cat("Loaded all external packages.\n")
 
 ## custom functions
