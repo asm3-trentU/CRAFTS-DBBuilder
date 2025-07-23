@@ -320,7 +320,7 @@ while (operation){
     NumSpectra[k] = length(EnergyFolders);
   }
   
-  cat('Step 4. Creating library for the DIT.\n')
+  cat('\n\nStep 4. Creating library for the DIT.\n')
   
   Structure_gen = character(nCompounds)
   for(i in 1:nCompounds){
