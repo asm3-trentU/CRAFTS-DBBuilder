@@ -24,4 +24,4 @@ Steps to building a library:
 
 4. If creating a full library, install a system appropriate version of [Open Babel](https://openbabel.org/docs/index.html), and then run "Full_DB-BuilderScript.R" in R. Follow the command line prompts and make sure you select the appropriate "master file" and folder for your library. If creating a basic library, simply run "Basic_DB-BuilderScript.R" in R. 
 
-For more information about this project or if you'd like help modifying this code, please contact Arun. To view a video describing the set up and use of the database builder scripts, please see the [CRAFTS Lab youtube channel](https://youtube.com/@craftslab-trentu?si=MC6UjEBhxWv0n4yo). 
+For more information about this project or if you'd like help modifying this code, please contact Arun. We  have a [video describing the set up and use of the database builder scripts](https://youtu.be/ybdYJqXzXUc?si=W1XhmutshVyZ5mdN) and a [video explaining how to set up a custom library with the NIST/NIJ DIT](https://youtu.be/lR92e5G0jKc?si=GNMX6nxlD7mldhSg) availble through the [CRAFTS Lab youtube channel](https://youtube.com/@craftslab-trentu?si=MC6UjEBhxWv0n4yo). 
