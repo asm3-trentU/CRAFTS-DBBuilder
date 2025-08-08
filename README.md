@@ -9,7 +9,8 @@ Developed by: Arun Moorthy - arunmoorthy@trentu.ca
 
 Adapted from code originally developed by Arun and Edward Sisco (edward.sisco@nist.gov) as presented as supplemental material in [Sisco et. al (2021). JASMS 32(3), 685-689](https://pubs.acs.org/doi/10.1021/jasms.0c00416). See original source code at https://github.com/asm3-nist/DART-MS-DBB.
 
-A pre-print (not peer reviewed) article to accompany this source code has been deposited on ChemRxiv: [Moorthy et al., 2025](https://doi.org/10.26434/chemrxiv-2025-5thd3).
+A manuscript to accompany this source code has been deposited on ChemRxiv: [Moorthy et al., 2025](https://doi.org/10.26434/chemrxiv-2025-5thd3).
+
 ==============================================================================
 
 Notes:
