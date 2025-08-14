@@ -13,7 +13,7 @@ A manuscript to accompany this source code has been deposited on ChemRxiv: [Moor
 
 ==============================================================================
 
-Notes:
+Usage notes:
 
 There are two primary scripts in this repository: (1) Basic_DB-BuilderScript.R and (2) Full_DB-BuilderScript.R. As their names suggest, the first script allows a user to build a basic database and the second allows a user to build a more complete database (but requires more information). 
 
