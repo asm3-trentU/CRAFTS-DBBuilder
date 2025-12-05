@@ -10,13 +10,13 @@
 ##               S.S.T; stephen.tennyson@nist.gov
 ##               M.G.A; meghan.appley@nist.gov
 ##
-## Revised: July 20, 2025
+## Revised: December 5, 2025
 ## =============================================================================
 
 # Setup
 rm(list=ls())
 
-header = "CRAFTS LAB Basic Databse Builder\nRevised July 20th, 2025.\n\nA basic builder with no quality checks."
+header = "CRAFTS LAB Basic Databse Builder\nRevised December 5th, 2025.\n\nA basic builder with no quality checks."
 cat(header)
 cat("\n\n")
 
@@ -396,7 +396,7 @@ while (operation){
     if (a %in% potential_continue){
       isError = FALSE
     } else if (a %in% potential_exit){
-      cat("\nExiting NIST DART-MS Database Builder program.\n\n")
+      cat("\nExiting CRAFTS Lab DB Builder program.\n\n")
       operation = FALSE
       isError =  FALSE
     } else {
